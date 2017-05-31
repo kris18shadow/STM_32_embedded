@@ -8,7 +8,7 @@ MEMORY
   FLASH (rx) : ORIGIN = 0x08000000, LENGTH = 0x08000   /* 32k */
   RAM (rwx)  : ORIGIN = 0x20000000, LENGTH = 0x01000   /*  4k */
 }
-
+---------------------------------------------------------------------------------------
 HOW TO USE: 
 
 PRESS BOTH BUTTONS SIMULTANEOUSLY TO CHANGE MODES:
